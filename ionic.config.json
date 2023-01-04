@@ -1,0 +1,7 @@
+{
+  "name": "aasro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
